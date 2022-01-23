@@ -1,6 +1,6 @@
 # NetProtease - Coronavirus PLpro
 
-Prescott L. SARS-CoV-2 PLpro whole human proteome cleavage prediction and enrichment/depletion analysis. bioRxiv (06 Oct 2021). https://doi.org/10.1101/2020.08.24.265645
+Prescott L. SARS-CoV-2 PLpro whole human proteome cleavage prediction and enrichment/depletion analysis. bioRxiv (06 Oct 2021). https://doi.org/10.1101/2021.10.04.462902
 
 ### Abstract
 
