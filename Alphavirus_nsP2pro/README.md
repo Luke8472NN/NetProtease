@@ -1,7 +1,6 @@
 # NetProtease - Alphavirus nsP2pro
 
-Prescott L. Alphavirus nsP2 protease structure and cleavage prediction: Possible relevance to the pathogenesis of viral arthritis
-. bioRxiv (??? Jan 2022). https://doi.org/???
+Prescott L. Alphavirus nsP2 protease structure and cleavage prediction: Possible relevance to the pathogenesis of viral arthritis. bioRxiv (23 Jan 2022). https://doi.org/10.1101/2022.01.22.477317
 
 ### Abstract
 
