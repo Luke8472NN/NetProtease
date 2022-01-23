@@ -1,4 +1,4 @@
-# NetProtease
+# NetProtease - Coronavirus 3CLpro
 
 Prescott L. SARS-CoV-2 3CLpro whole human proteome cleavage prediction and enrichment/depletion analysis. bioRxiv (25 Aug 2020). https://doi.org/10.1101/2020.08.24.265645
 
